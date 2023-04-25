@@ -1,5 +1,5 @@
 <div align="center" >
-    <img width="50%" src="./PPP group logo.png"/>
+    <img width="50%" src="https://github.com/PPP-Group/.github/blob/main/profile/PPP%20group%20logo.png"/>
 </div>
 
 ---
