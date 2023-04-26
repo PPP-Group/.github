@@ -10,4 +10,4 @@
 
 | Project Title | Category | Date | Description | State |
 | :--------: | :-------: |:-------: | :-------------------------: | :------: |
-| Ssukzip Modeling | `Project` `Modeling` `Sentiment Analysis` | 2023.04.25. ~ 2023.05. | Improved Model performance | Processing |
+| [**Advanced Ssukzip Modeling**](https://github.com/PPP-Group/SsukZip-Model) | `Project` `Modeling` `Sentiment Analysis` | 2023.04.25. ~ 2023.05. | Improved Model performance | Processing |
