@@ -3,6 +3,13 @@
 </div>
 
 ---
+# 😝 My Stat
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jh9892/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jh9892/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jh9892/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jh9892/discussion/light)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhchoi09)](https://solved.ac/jhchoi09/)
+
 # 😁 Activity Hub
 - [**Hugging Face**](https://huggingface.co/Ash-Hun)
 - [**Kaggle**](https://www.kaggle.com/jh9892)
